@@ -10,9 +10,13 @@ and there is a software to control the robot so first we need to download the so
 
 #  18th June 2024
 Download the softwares :-
+
 Epson RC + 7.0
+
 Python 
+
 Jupyter Notebook
+
 Yolo v8
 
 #  19th June 2024
