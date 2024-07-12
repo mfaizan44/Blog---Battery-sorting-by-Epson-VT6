@@ -21,3 +21,5 @@ Yolo v8
 
 #  19th June 2024
 Taking a look of the batteries and Robot and thinking about the possible hardware going to be used
+![vt6l_004_690x460](https://github.com/user-attachments/assets/b2b908c3-9dcb-42b5-9300-df26403014e6)
+![1_batteries_different](https://github.com/user-attachments/assets/fc342b71-e848-4df6-9936-e1cc04b0e2f4)
