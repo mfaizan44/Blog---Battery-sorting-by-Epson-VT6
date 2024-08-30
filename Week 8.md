@@ -1,5 +1,8 @@
 # 6th August 2024
 ## Ultralytics
+From Git we need to first import Ultralytics and then apply to our Dataset
+https://github.com/ultralytics/ultralytics
+
 ![Screenshot 2024-08-30 140239](https://github.com/user-attachments/assets/d02ec3c3-25d4-4638-b94a-186ec6eb11b5)
 
 # 7th August 2024
