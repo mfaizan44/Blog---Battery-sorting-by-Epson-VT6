@@ -11,3 +11,4 @@ It took several hours in total.
 
 ## 17th July 2024
 TRAINING the model
+![Screenshot 2024-08-30 140202](https://github.com/user-attachments/assets/28d5e998-4282-4f36-8dc7-b00ec6a783c4)
