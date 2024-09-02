@@ -3,7 +3,7 @@
 
 # 25th June 2024
 ## Hardware Selection:
-* Finalized the hardware components:
+Finalized the hardware components:
 * EPSON VT6 Robot
 * Electronic gripper (requires 5V power supply)
 * Three battery types: AA, D, 9V
