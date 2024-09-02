@@ -2,7 +2,7 @@
 ##  Week 2
 
 # 25th June 2024
-* Hardware Selection:
+## Hardware Selection:
 * Finalized the hardware components:
 * EPSON VT6 Robot
 * Electronic gripper (requires 5V power supply)
