@@ -13,8 +13,7 @@ Finalized the hardware components:
 This selection process included not only the main robot and camera but also additional peripherals like electromagnet gripper.
 
 # 26th June 2024
-* Dataset Collection:  
-Captured images for the dataset, using three batteries of each type in a single frame, totaling 9 batteries.
+* Dataset Collection: Captured images for the dataset, using three batteries of each type in a single frame, totaling 9 batteries.
 
 I also began preparing the dataset that would be used for training the model to recognize different battery types. This involved collecting images of various batteries, ensuring that the dataset was comprehensive enough to cover all the variations the system might encounter during operation.
 
