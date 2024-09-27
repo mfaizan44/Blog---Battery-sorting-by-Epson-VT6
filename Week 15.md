@@ -14,3 +14,6 @@ In the final week, I concentrated on finalizing the project by conducting thorou
 ## 25th September 2024
 ### Shooting a video
 Additionally, I documented the project by shooting a video, showcasing the system in action. The video served as a visual summary of the project's outcome, providing a clear demonstration of the system's capabilities.
+
+
+URL - https://drive.google.com/file/d/11FgDzyOEh3SiyNp5zqrs86Da2TaGSnMA/view?usp=drive_link
