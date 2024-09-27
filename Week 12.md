@@ -1,5 +1,5 @@
 ## 3rd September 2024
-Teaching the points and calibrating with the camera
+### Teaching the points and calibrating with the camera
 
 I manually jog the robot from the software and started to teach the robots all the four corner points. 
 ![20240911_125259](https://github.com/user-attachments/assets/06f42ec0-496b-4c36-ac66-c2fbe0d56f4b)
