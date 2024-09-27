@@ -30,6 +30,7 @@ I clicked several pictures from the camera and then again tried to detect the pa
 
 
 The pattern was detected properly.
-MPZ file was saved successfully/
+
+NPZ file was saved successfully/
 
 
