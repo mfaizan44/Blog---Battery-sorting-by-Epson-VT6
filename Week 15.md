@@ -4,6 +4,12 @@
 In the final week, I concentrated on finalizing the project by conducting thorough testing of the entire system. This testing phase was crucial to ensure that the robotic sorting system was fully operational and capable of accurately sorting batteries as intended. Any remaining issues were addressed, and final adjustments were made.
 
 After testing i faced a problem. when the battery was picked and when it was going to the drop position it was colliding with boxes as it didnt had height.
+Check the Video
+
+
+https://github.com/user-attachments/assets/6a1b41d9-c14c-43b1-a0db-c2fe3dfbcf2d
+
+
 
 
 To overcome that problem I decided to have a safe point that is home point. So after picking up the battery it will go to home position and from there it will go to the drop position giving the robot ample of space to avoid collision with the boxes.
