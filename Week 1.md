@@ -9,10 +9,11 @@ and there is a software to control the robot so first we need to download the so
 
 ## 18th June 2024
 * Software Installation:
-* 
+
 Downloaded and installed necessary software:
 
 Epson RC+ 7.0 (for robot control)
+
 ![image](https://github.com/user-attachments/assets/d7fdbe8b-997c-4ed4-ab66-6e0676908029)
 
 
