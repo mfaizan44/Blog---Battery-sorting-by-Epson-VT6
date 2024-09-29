@@ -13,3 +13,5 @@ It took several hours in total.
 ### TRAINING the model 
 In the fifth week, I focused on training the model using the labeled dataset. This training involved running multiple iterations to fine-tune the model's ability to detect and classify different types of batteries accurately. 
 ![Screenshot 2024-08-30 140202](https://github.com/user-attachments/assets/28d5e998-4282-4f36-8dc7-b00ec6a783c4)
+
+50 EPOCHS COMPLETED IN # 17.162 HOURS #
