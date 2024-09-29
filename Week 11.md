@@ -23,7 +23,11 @@ Then I decided to change the dot pattern. I kept a new symmetric grid of 11x7 gr
 
 
 I placed the camera in a position that the pattern is clearly visible. I adjusted the height, zoom lens and focus.
+
 ![WIN_20240917_15_21_53_Pro](https://github.com/user-attachments/assets/8c55580d-1cfb-400e-9a49-8ebd1682d190)
+
+![IMG-20240930-WA0003](https://github.com/user-attachments/assets/6a248dd1-c72d-4714-8835-4ddc773b02e7)
+
 
 
 I clicked several pictures from the camera and then again tried to detect the pattern.
@@ -31,6 +35,6 @@ I clicked several pictures from the camera and then again tried to detect the pa
 
 The pattern was detected properly.
 
-NPZ file was saved successfully/
+NPZ file was saved successfully
 
 
