@@ -9,13 +9,22 @@ I have to change the cordinates.
 
 I have to note down several battery positions in both point of view coordinates 
 
-![Screenshot 2024-09-18 134714](https://github.com/user-attachments/assets/c03fe574-5fcd-4ba7-8976-f054949cc9cb)
-After taking several battery positions in both view coordinates. I came up with two formulas. So i took one equation out of each of the two formulas.
-Then I implemented that in the python code.
+![IMG-20240930-WA0002](https://github.com/user-attachments/assets/453edbf9-e66f-4d99-a429-54d154e3aa27)
+
+
+![IMG-20240930-WA0001](https://github.com/user-attachments/assets/d1df6f1c-cf95-4fd8-bed0-ba3b769bb876)
+
 
 
 
 # 11th September 2024
+
+![Screenshot 2024-09-18 134714](https://github.com/user-attachments/assets/c03fe574-5fcd-4ba7-8976-f054949cc9cb)
+
+
+After taking several battery positions in both view coordinates. I came up with two formulas. So i took one equation out of each of the two formulas.
+Then I implemented that in the python code.
+
 
 My python script was not working with the USB Serial connector.
 
