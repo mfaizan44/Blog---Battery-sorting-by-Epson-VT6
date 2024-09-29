@@ -36,6 +36,6 @@ https://github.com/user-attachments/assets/85803cba-adcb-4a43-bee6-8a145ebb5d05
 
 
 
-It was not accurate but since the end of arm of the robot is magnet it wont have problem.
+It was not accurate but since the end of arm of the robot is magnet it wont have problem. In the above video the electromagnet was OFF as I was just checking.
 
 
