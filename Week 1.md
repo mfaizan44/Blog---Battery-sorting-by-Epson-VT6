@@ -19,9 +19,15 @@ Epson RC+ 7.0 (for robot control)
 
 Python
 
+![images](https://github.com/user-attachments/assets/246b6847-c4c8-4cd5-b054-c373a28b6fa3)
+
 Jupyter Notebook
 
+
+
 YOLO v8 (for object detection)
+
+![Screenshot 2024-08-29 181236](https://github.com/user-attachments/assets/2e9d4ce2-7b84-426e-a765-ed13d8b127d8)
 
 ##  19th June 2024
 * Initial Hardware Inspection:
